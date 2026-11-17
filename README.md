@@ -13,7 +13,9 @@
 
 ### 方式一：直接玩（推荐给不想装 Python 的人）
 
-到 [Releases](../../releases) 下载 `SkyCityDemo_Setup.exe`，双击安装后从开始菜单或桌面启动即可，无需安装 Python。
+到 [Releases](../../releases) 下载 `SkyCityDemo_Setup_v0.1.0.zip`，解压出安装程序后双击安装，之后从开始菜单或桌面启动即可，无需安装 Python。
+
+> 首次运行时 Windows SmartScreen 可能提示「未知发布者」，点「更多信息 → 仍要运行」即可（安装包未做代码签名）。
 
 ### 方式二：从源码运行
 

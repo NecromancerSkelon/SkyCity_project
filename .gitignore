@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyInstaller / 打包产物（体积很大，不入库）
+build/
+dist/
+
+# 演示与素材工程（与游戏本体无关）
+ppt_work/
+PPT_构筑过程图片/
+tools/
+*.pptx
+*.pdf
+
+# 运行/导出产物
+exports/
+output/
+verification/
+
+# 早期美术原图（游戏已改用 generated_assets 下的正式素材）
+flat_*.png
+tile_*.png
+sky_city_board_base*.png
+asset_variants_contact_sheet.png
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ���ص����ļ�
+test.rest
+
+# һ���Ա����޸��ű�
+fix_github_hosts.ps1
